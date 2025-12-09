@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lemarc.es/tienda/sitemap.xml
